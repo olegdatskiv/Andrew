@@ -1,0 +1,23 @@
+﻿  Source.cpp
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(7): error C3646: 'name': unknown override specifier
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(16): error C2061: syntax error: identifier 'string'
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(13): error C2039: 'name': is not a member of 'Goods'
+  d:\c++_task\task for exams\my_exam\my_exam\goods.h(4): note: see declaration of 'Goods'
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(19): error C2039: 'name': is not a member of 'Goods'
+  d:\c++_task\task for exams\my_exam\my_exam\goods.h(4): note: see declaration of 'Goods'
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(19): error C2065: 'name': undeclared identifier
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(25): error C2065: 'cout': undeclared identifier
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(26): error C2065: 'cin': undeclared identifier
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(27): error C2065: 'cout': undeclared identifier
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(28): error C2065: 'cin': undeclared identifier
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(28): error C2039: 'name': is not a member of 'Goods'
+  d:\c++_task\task for exams\my_exam\my_exam\goods.h(4): note: see declaration of 'Goods'
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(29): error C2065: 'cout': undeclared identifier
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(30): error C2065: 'cin': undeclared identifier
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(31): error C2065: 'cout': undeclared identifier
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(37): error C2065: 'cout': undeclared identifier
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(38): error C2065: 'cout': undeclared identifier
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(38): error C2039: 'name': is not a member of 'Goods'
+  d:\c++_task\task for exams\my_exam\my_exam\goods.h(4): note: see declaration of 'Goods'
+d:\c++_task\task for exams\my_exam\my_exam\goods.h(39): error C2065: 'cout': undeclared identifier
